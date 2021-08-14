@@ -7,3 +7,5 @@ I have published the solution to create the installer. It is located in \MossApp
 If you find any errors, please let me know: smay1@nwacc.edu
 
 Thank you. 
+
+사용 방법: https://snakehips.tistory.com/entry/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%B9%B4%ED%94%BC-%EC%9E%A1%EA%B8%B0-Code-plagiarism-detector-MOSS-Windows-GUI
